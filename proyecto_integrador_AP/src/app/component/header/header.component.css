@@ -1,0 +1,9 @@
+div{
+    background-color: rgb(76, 145, 235);
+}
+app-social{
+    float: right;
+    margin-top: 25px;
+    -ms-flex-item-align: center;
+    
+}
