@@ -1,0 +1,44 @@
+.row{
+    padding: 20px;
+    
+}
+div{
+    background-color: rgb(76, 145, 235);
+    text-align: center;
+}
+#nombre{
+    font-weight: bold;
+    margin-top: 30% ;   
+}
+@media(min-width:576px){
+    #foto_perfil{
+        position: absolute;
+        border-radius: 100%;
+        left: 3%;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        -ms-border-radius: 100%;
+        -o-border-radius: 100%;
+        width: 15%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        
+    }
+    
+}
+@media(max-width:576px){
+    #foto_perfil{
+        align-items:center ;
+        border-radius: 100%;
+        left: 3%;
+        -webkit-border-radius:;
+        -moz-border-radius:;
+        -ms-border-radius:;
+        -o-border-radius:;
+        width: 30%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+}
+    
+}
+
