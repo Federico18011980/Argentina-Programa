@@ -19,7 +19,7 @@ div{
         -moz-border-radius: 100%;
         -ms-border-radius: 100%;
         -o-border-radius: 100%;
-        width: 15%;
+        width: 10%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
         
@@ -28,17 +28,16 @@ div{
 }
 @media(max-width:576px){
     #foto_perfil{
-        align-items:center ;
         border-radius: 100%;
-        left: 3%;
-        -webkit-border-radius:;
-        -moz-border-radius:;
-        -ms-border-radius:;
-        -o-border-radius:;
-        width: 30%;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100% ;
+        -ms-border-radius: 100% ;
+        -o-border-radius: 100%;
+        align-items:center ;
+        width: 20%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-}
+    }
     
 }
 
