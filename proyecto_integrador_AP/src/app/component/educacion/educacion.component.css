@@ -1,6 +1,15 @@
 .row{
     padding: 20px;
 }
+#estudios{
+    border: solid 2px gray;
+    margin: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
 div{
     background-color: rgb(133, 180, 240);
 }
